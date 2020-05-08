@@ -4,3 +4,7 @@
 * If you want meaning of that word the you can enter yes or y then meaning of that word will get displayed
 ## HOW TO RUN?
 ### pyhton3 main.py
+
+## OUTPUT
+
+![Desktop_screenshot (1).png]
