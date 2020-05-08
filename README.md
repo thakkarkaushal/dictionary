@@ -10,3 +10,7 @@
 <p align="center">
   <img width="460" height="300" src="Desktop_screenshot (1).png">
 </p>
+
+<p align="center">
+  <img width="460" height="300" src="Desktop_screenshot.png">
+</p>
