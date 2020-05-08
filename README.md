@@ -7,4 +7,4 @@
 
 ## OUTPUT
 
-![alt text](Desktop_screenshot (1).png)
+![alt tag](Desktop_screenshot (1).png)
